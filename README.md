@@ -23,8 +23,7 @@ The dataset contains information on **customer demographics**, **service subscri
 - `Contract`, `PaymentMethod`, `MonthlyCharges`, `TotalCharges`
 - Target variable: `Churn`
 
-📁 *Dataset Source*: (Mention if from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn), company, or internship)
-
+📁 *Dataset Source*:[Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 ---
 
 ## 🧪 Methodology
